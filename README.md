@@ -1,12 +1,14 @@
 # Data_visualization
-This project is a ros node aiming to control e-puck2 via bluetooth.
+This project is a 
 
 ## Requirement
 
-### Linux
+### Debian/Ubuntu
 
 ```bash
 sudo apt-get install 
 ```
 
 ### Windows
+
+Install Qt (>5.12) 
